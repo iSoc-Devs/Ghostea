@@ -48,7 +48,7 @@ For most people this ends up being the best value option because of [how much ti
 
 # Quickstart install
 
-If you want to run your own instance of Ghost, in most cases the best way is to use our **CLI tool**
+If you want to run your own instance of Ghostea, in most cases the best way is to use our **CLI tool**
 
 ```
 npm install ghost-cli -g
