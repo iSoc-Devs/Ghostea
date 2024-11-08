@@ -2,7 +2,9 @@
 
 Thank you for considering attending the tech workshop. We've detailed what you need to get ready.
 
-Quick note: We'd highly advise installing everything locally to set you up for success in the future. However if this looks really, really challenging. You can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea
+**Quick note**: We'd highly advise installing everything locally to set you up for success in the future. However if it was really, really challenging you can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea
+
+You could also use your complimentary monthly GitHub Cospaces allowance for a more fully featured completely online experience. There's a [generic guide](https://docs.github.com/en/codespaces/getting-started/quickstart) but use https://github.com/iSoc-Devs/Ghostea instead of https://github.com/github/haikus-for-codespaces
 
 ---
 
