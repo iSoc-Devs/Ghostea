@@ -24,6 +24,9 @@ We’ll be using some free tools to work on the code. Here’s how to get starte
 - **Install Git**  
   Git is a tool for managing code versions and tracking changes. Download and install it from [Git’s official website](https://git-scm.com/downloads). Follow the instructions on the website to install it on your computer.
 
+- **Install Node.js**  
+  Node.js is used to run javascript and typescript outside a browser. Install it from the [Node.js website](https://nodejs.org/en/download/package-manager).
+
 **Quick note**: We'd highly advise installing everything locally to set you up for success in the future. However if it was really, really challenging you can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea (doesn't have a terminal)
 
 You could also use your [complimentary](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) monthly GitHub Codespaces allowance for a more fully featured completely online experience. 
