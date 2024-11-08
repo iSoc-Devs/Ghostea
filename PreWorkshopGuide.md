@@ -29,7 +29,7 @@ We’ll be using some free tools to work on the code. Here’s how to get starte
 
 **Quick note**: We'd highly advise installing everything locally to set you up for success in the future. However if it was really, really challenging you can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea (doesn't have a terminal)
 
-You could also use your [complimentary](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) monthly GitHub Codespaces allowance for a more fully featured completely online experience. 
+You could also use your [complimentary](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) monthly GitHub Codespaces allowance for a more fully featured completely online experience. Worthwhile; take a few minutes to setup though. **This setup is especially useful if you're using a tablet with a keyboard.**
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iSoc-Devs/Ghostea?quickstart=1)
 
