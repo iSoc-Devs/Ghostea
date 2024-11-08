@@ -1,6 +1,8 @@
 ### Pre-Workshop Guide for Fullstack & Devops
 
-Thank you for considering attending the tech workshop. Here’s what you’ll need to get ready:
+Thank you for considering attending the tech workshop. We've detailed what you need to get ready.
+
+Quick note: We'd highly advise installing everything locally to set you up for success in the future. However if this looks really, really challenging. You can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea
 
 ---
 
