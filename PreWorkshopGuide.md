@@ -1,4 +1,4 @@
-### Pre-Workshop Guide for Fullstack & Devops
+### Pre-Workshop Guide
 
 Thank you for considering attending the tech workshop. We've detailed what you need to get ready.
 
@@ -9,7 +9,15 @@ Thank you for considering attending the tech workshop. We've detailed what you n
 - **Bring your laptop** with enough battery life, or bring your charger.
 - Ensure you can connect to **Wi-Fi**, as we’ll be working online.
 
+
+
+
+**Everything else is totally optional!**
+
 ---
+
+<details>
+<summary> Backend/ Devops </summary>
 
 #### 2. **Set Up the Necessary Tools**
 
@@ -117,9 +125,20 @@ git config --global user.email "youremail@example.com"
 
 ---
 
+
 This guide will help you arrive ready to explore some hands-on coding and GitHub workflows. Looking forward to diving into the code with you!
 
 Bonus. Watch these videos:
 [![Watch the video](https://img.youtube.com/vi/zQnBQ4tB3ZA/maxresdefault.jpg)](https://youtu.be/zQnBQ4tB3ZA)
 [![Watch the video](https://img.youtube.com/vi/ahCwqrYpIuM/maxresdefault.jpg)](https://youtu.be/ahCwqrYpIuM)
+</details>
 
+<details>
+    <summary> Data Science </summary>
+
+
+#### 2. Check out this workbook for more information
+
+https://colab.research.google.com/drive/1wB7PYbLN9WV8OjsB7Azr1EjMNxxf5cLU?usp=sharing
+
+</details>
