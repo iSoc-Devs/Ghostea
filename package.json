@@ -1,10 +1,10 @@
 {
-  "name": "ghost-monorepo",
+  "name": "ghostea-monorepo",
   "version": "0.0.0-private",
-  "description": "The professional publishing platform",
+  "description": "The professional publishing platform, forked as Ghostea",
   "private": true,
-  "repository": "https://github.com/TryGhost/Ghost",
-  "author": "Ghost Foundation",
+  "repository": "https://github.com/iSoc-Devs/Ghostea",
+  "author": "ISOC Devs",
   "license": "MIT",
   "workspaces": [
     "ghost/*",
