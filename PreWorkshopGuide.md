@@ -17,7 +17,7 @@ Thank you for considering attending the tech workshop. We've detailed what you n
 ---
 
 <details>
-<summary> Backend/ Devops </summary>
+    <summary> Backend/ Devops </summary>
 
 #### 2. **Set Up the Necessary Tools**
 
@@ -134,11 +134,45 @@ Bonus. Watch these videos:
 </details>
 
 <details>
-    <summary> Data Science </summary>
+    <summary> Data Science - GenAI Focus </summary>
 
 
 #### 2. Check out this workbook for more information
 
 https://colab.research.google.com/drive/1wB7PYbLN9WV8OjsB7Azr1EjMNxxf5cLU?usp=sharing
 
+</details>
+
+<details>
+
+<summary>
+    Data Science - ML Training Focus
+</summary>
+
+Will include the notebook to reference shortly.
+</details>
+
+<details>
+    <summary>
+        Frontend and UI/UX
+    </summary>
+
+Will include further details shortly.
+</details>
+
+<details>
+    <summary>
+        Using Tech in other disciplines
+    </summary>
+
+If you're working on your dissertation. Come with notes and thoughts about how you work
+
+</details>
+
+<details>
+    <summary>
+        Tech Sales/ Business Development
+    </summary>
+
+Further detail will be added shortly.
 </details>
