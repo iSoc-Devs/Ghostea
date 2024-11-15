@@ -37,30 +37,13 @@ We’ll be using some free tools to work on the code. Here’s how to get starte
 
 **Quick note**: We'd highly advise installing everything locally to set you up for success in the future. However if it was really, really challenging you can access a lightweight vscode editor online here: https://github.dev/iSoc-Devs/Ghostea (doesn't have a terminal)
 
-You could also use your [complimentary](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) monthly GitHub Codespaces allowance for a more fully featured completely online experience. Worthwhile; take a few minutes to setup though. **This setup is especially useful if you're using a tablet with a keyboard.**
+You could also use your [complimentary](https://docs.github.com/en/billing/managing-billing-for-your-products/managing-billing-for-github-codespaces/about-billing-for-github-codespaces#monthly-included-storage-and-core-hours-for-personal-accounts) monthly GitHub Codespaces allowance for a more fully featured completely online experience. Worthwhile; but it can take ten minutes to setup. If you're considering this option, it would great to set it up before the session. **This setup is especially useful if you're using a tablet with a keyboard.**
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/iSoc-Devs/Ghostea?quickstart=1)
 
 ---
 
-#### 3. **Install VSCode Extensions for TypeScript**
-
-We’ll be working on **Ghostea**, *our fork of [Ghost](https://github.com/TryGhost/Ghost)*. It's a TypeScript-based project, so these extensions will help with code quality and consistency:
-
-- **ESLint**  
-  This extension automatically checks for common JavaScript and TypeScript issues, helping ensure good code quality.
-
-- **Prettier**  
-  A code formatter that makes your code cleaner and easier to read. Prettier works well alongside ESLint to maintain consistent style.
-
-To install an extension in VSCode:
-1. Open VSCode.
-2. Go to the Extensions view by clicking on the square icon on the sidebar.
-3. Type the name of the extension (e.g., “ESLint”) and click **Install**.
-
----
-
-#### 4. **Get Familiar with the Command Line and Basic Git Commands**
+#### 3. **Get Familiar with the Command Line and Basic Git Commands**
 
 The **Command Line** (or **Terminal**) is a tool that allows you to interact with your computer using text commands instead of a graphical interface. Think of it as a way to give instructions directly to your computer. We’ll use the command line in this workshop to manage code with Git, a version control system.
 
@@ -107,7 +90,7 @@ For Mac and Linux, you can learn more in [this video](https://www.youtube.com/wa
 
 ---
 
-#### 5. **Getting Started with the Ghostea Repository**
+#### 4. **Getting Started with the Ghostea Repository**
 
 In the workshop, we’ll be working directly on the **Ghostea** fork of the **Ghost** open-source project. Follow the instructions in **Section 4** to:
 - **Clone the Repository**: Download the [Ghostea repository](https://github.com/iSoc-Devs/Ghostea) to your laptop.
@@ -115,7 +98,7 @@ In the workshop, we’ll be working directly on the **Ghostea** fork of the **Gh
 
 ---
 
-#### 6. **Test Git Configuration (Optional but Helpful)**
+#### 5. **Test Git Configuration (Optional but Helpful)**
 
 To ensure Git recognizes you, you can configure it with your name and email (once Git is installed):
 ```bash
