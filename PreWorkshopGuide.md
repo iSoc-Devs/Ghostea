@@ -131,8 +131,10 @@ https://colab.research.google.com/drive/1wB7PYbLN9WV8OjsB7Azr1EjMNxxf5cLU?usp=sh
 <summary>
     Data Science - ML Training Focus
 </summary>
+https://colab.research.google.com/drive/1WwvqPy60jBuDp-mgVyUY7aWm8v9swcfG?usp=sharing 
 
-Will include the notebook to reference shortly.
+Open this notebook in Google Colab, and save a copy somewhere so you can run it, make changes, etc.
+
 </details>
 
 <details>
