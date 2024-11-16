@@ -150,7 +150,7 @@ Will include further details shortly.
         Using Tech in other disciplines
     </summary>
 
-If you're working on your dissertation. Come with notes and thoughts about how you work
+If you're working on your dissertation. Come with notes and thoughts about the challenges in capturing qualitative and quantitative data.
 
 </details>
 
@@ -159,5 +159,7 @@ If you're working on your dissertation. Come with notes and thoughts about how y
         Tech Sales/ Business Development
     </summary>
 
-Further detail will be added shortly.
+Lots of great context has been provided here: https://docs.google.com/document/d/129TNCBB6LZc14E4cwewxzSGxClhugJgmlPhz3nCrY6k
+The workshop will focus more on the particular challenges in tech sales (as opposed to sales in other industries).
+    
 </details>
